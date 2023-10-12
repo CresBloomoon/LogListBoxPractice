@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogListBoxPractice", "LogListBoxPractice\LogListBoxPractice.csproj", "{F3BF3518-6C58-4190-8274-B2BFCEDF5774}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogListBoxPractice.Domain", "LogListBoxPractice.Domain\LogListBoxPractice.Domain.csproj", "{5410AC47-958A-4683-8312-1D5233DC3EBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3BF3518-6C58-4190-8274-B2BFCEDF5774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3BF3518-6C58-4190-8274-B2BFCEDF5774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3BF3518-6C58-4190-8274-B2BFCEDF5774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3BF3518-6C58-4190-8274-B2BFCEDF5774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5410AC47-958A-4683-8312-1D5233DC3EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5410AC47-958A-4683-8312-1D5233DC3EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5410AC47-958A-4683-8312-1D5233DC3EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5410AC47-958A-4683-8312-1D5233DC3EBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F029809E-D185-4AD9-80C2-D77976396D83}
+	EndGlobalSection
+EndGlobal
